@@ -4,6 +4,7 @@
 
  - `build_database/` -The process of building the database
  - `data processing/` -The process of strain-level analysis
+ - `web_page/` -Web Page
 
 ## Software version
  - Roary v1.7.8
